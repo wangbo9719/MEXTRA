@@ -1,0 +1,12 @@
+params:
+  initial_prompt: 'PROMPT1'
+  temperature: 0.0
+  split: 'final'
+  success: True
+  query_category: True
+  intra_task: True
+  act_obs: True
+  analogy_len: 10
+  num_retrieval: 4
+  reward_weight: 1
+  max_init_prompt_len: 6400
